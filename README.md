@@ -1,4 +1,4 @@
-<h1 align=center>Falling-Stars</h1>
+<h1 align=center>Falling Stars</h1>
 
 ## Tech Stack
 Created using opensource p5.js. 
